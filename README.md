@@ -18,3 +18,19 @@ The files are redistributed as published, under the terms of the Open CASCADE
 Technology distribution they belong to (GNU LGPL 2.1 with the Open CASCADE
 exception). Do not edit a file in place: add a new dataset directory instead,
 so pinned test baselines keep their inputs.
+
+## github-issues
+
+Input files attached to public issues of the Open CASCADE Technology GitHub
+repository (https://github.com/Open-Cascade-SAS/OCCT/issues), for regression
+cases whose input is in no published dataset archive. Each file is the
+unchanged member of an issue attachment; `github-issues/SOURCES.json` records
+the issue, the attachment URL and SHA-256, the member's size and SHA-256, the
+retrieval date and the case it serves.
+
+- `OCCT-466/cutCompound.shape`: issue #466 ("BRepBndLib::AddClose crashes"),
+  member of the attachment `cutCompound.zip`; the input `bug_gh466.brep` of
+  `tests/bugs/modalg_8/bug_gh466`.
+
+The files are redistributed as their reporters attached them to the public
+Open CASCADE Technology issue tracker. Do not edit a file in place.

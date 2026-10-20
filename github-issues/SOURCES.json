@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "path": "github-issues/OCCT-466/cutCompound.shape",
+      "issue": "https://github.com/Open-Cascade-SAS/OCCT/issues/466",
+      "issue_title": "BRepBndLib::AddClose crashes",
+      "attachment": "https://github.com/user-attachments/files/19510650/cutCompound.zip",
+      "attachment_sha256": "27e5d2dad107abdb52dad1c7000def4d9fb19dcae646ca2b99f1ee1f75f550df",
+      "attachment_size": 2463658,
+      "member": "cutCompound.shape",
+      "size": 9881133,
+      "sha256": "826aa826b7a8676d00c8e0437edda5bff4dd5c9cf0ca396d12655971be2fea16",
+      "retrieved": "2026-10-20",
+      "used_as": "bug_gh466.brep of OCCT tests/bugs/modalg_8/bug_gh466",
+      "validation": "The original case run in native DRAWEXE (OCCT 3d097a0328e7) with this file as bug_gh466.brep restores the shape and OCC566 (BRepBndLib::AddClose) prints its box; TEST COMPLETED, no error."
+    }
+  ]
+}
