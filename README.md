@@ -31,6 +31,9 @@ retrieval date and the case it serves.
 - `OCCT-466/cutCompound.shape`: issue #466 ("BRepBndLib::AddClose crashes"),
   member of the attachment `cutCompound.zip`; the input `bug_gh466.brep` of
   `tests/bugs/modalg_8/bug_gh466`.
+- `OCCT-469/cutCompound2.shape`: issue #469 ("Bounding box is void when using
+  BRepBndLib::AddOptimal"), member of the attachment `cutCompound2.zip`; the
+  input `bug_gh469.brep` of `tests/bugs/modalg_8/bug_gh469`.
 
 The files are redistributed as their reporters attached them to the public
 Open CASCADE Technology issue tracker. Do not edit a file in place.

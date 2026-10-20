@@ -13,6 +13,20 @@
       "retrieved": "2026-10-20",
       "used_as": "bug_gh466.brep of OCCT tests/bugs/modalg_8/bug_gh466",
       "validation": "The original case run in native DRAWEXE (OCCT 3d097a0328e7) with this file as bug_gh466.brep restores the shape and OCC566 (BRepBndLib::AddClose) prints its box; TEST COMPLETED, no error."
+    },
+    {
+      "path": "github-issues/OCCT-469/cutCompound2.shape",
+      "issue": "https://github.com/Open-Cascade-SAS/OCCT/issues/469",
+      "issue_title": "Bounding box is void when using BRepBndLib::AddOptimal",
+      "attachment": "https://github.com/user-attachments/files/19525260/cutCompound2.zip",
+      "attachment_sha256": "7b5e1b47b88dc8f115fe1ace8a80deff29fd6e94a748627fde6f30212515649d",
+      "attachment_size": 84684,
+      "member": "cutCompound2.shape",
+      "size": 418891,
+      "sha256": "222f67f07136a5dc1475ef9f23acfce3e3840d1ab47b8452b834dcdcf878861c",
+      "retrieved": "2026-10-20",
+      "used_as": "bug_gh469.brep of OCCT tests/bugs/modalg_8/bug_gh469",
+      "validation": "The original case run in native DRAWEXE (OCCT 3d097a0328e7) with this file as bug_gh469.brep restores the shape and bounding -optimal prints the box -10.383446753040507 -12.671863137694107 -135.723898641278 21.647222385336605 19.363063137694109 59.414846753040507; TEST COMPLETED, CASE OK, no error."
     }
   ]
 }
