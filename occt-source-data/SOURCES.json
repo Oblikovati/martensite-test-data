@@ -24,11 +24,39 @@
       "sha256": "7f9aec65e35f951a0eb06fdee44e6dc62245df51eb30e18a62d9f37ac8abd2a3"
     },
     {
+      "path": "occt-source-data/occ/CrankArm.rle",
+      "occt_path": "data/occ/CrankArm.rle",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 196368,
+      "sha256": "a7e181a560dcd2ba93d00767f6c69d7638d139045582eb56e15dfcdb5863ad16"
+    },
+    {
+      "path": "occt-source-data/occ/CylinderHead.rle",
+      "occt_path": "data/occ/CylinderHead.rle",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 31647,
+      "sha256": "6abb7779b3bf613723cab36c40ea4db189ac587a05a837570d81e3b48bd5878e"
+    },
+    {
+      "path": "occt-source-data/occ/EngineBlock.rle",
+      "occt_path": "data/occ/EngineBlock.rle",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 44179,
+      "sha256": "bdf9f7bbdea1f5d4a013d358e51799394aae5c27d0f4c1a81265aaf929c00f3c"
+    },
+    {
       "path": "occt-source-data/occ/Motor-c.brep",
       "occt_path": "data/occ/Motor-c.brep",
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
       "size": 2584674,
       "sha256": "6a381db39565ddf78d1ae7162c2f839bc5886931d510dd0789a72be12a0b2d0b"
+    },
+    {
+      "path": "occt-source-data/occ/Propeller.rle",
+      "occt_path": "data/occ/Propeller.rle",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 436692,
+      "sha256": "679a49b87e9654c148953be5045763f477a641a3b6812b4c51460a16c18e6248"
     },
     {
       "path": "occt-source-data/occ/Top.brep",
