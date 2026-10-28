@@ -3,6 +3,27 @@
   "note": "Unchanged files of the public OCCT source tree data/ folder at the recorded revision, used by OCCT regression scripts through locate_data_file.",
   "files": [
     {
+      "path": "occt-source-data/images/chataignier.gif",
+      "occt_path": "data/images/chataignier.gif",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 6094,
+      "sha256": "c30919d3d199d273f3ca91c5a6458fbeb1271cce2d825d0c958d26b92038c210"
+    },
+    {
+      "path": "occt-source-data/images/hatch_1.png",
+      "occt_path": "data/images/hatch_1.png",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 5697,
+      "sha256": "a46a7abea8bbfd8a2b9269d0fe6a73566f9193b29fb11c7454eeb322e78008e0"
+    },
+    {
+      "path": "occt-source-data/occ/CrankArm.brep",
+      "occt_path": "data/occ/CrankArm.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 383605,
+      "sha256": "7f9aec65e35f951a0eb06fdee44e6dc62245df51eb30e18a62d9f37ac8abd2a3"
+    },
+    {
       "path": "occt-source-data/occ/Motor-c.brep",
       "occt_path": "data/occ/Motor-c.brep",
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
@@ -36,20 +57,6 @@
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
       "size": 3468113,
       "sha256": "7eea9dba10e0ca436db231c92985532924ba36adce476425fcf8ff4d29b23f26"
-    },
-    {
-      "path": "occt-source-data/images/chataignier.gif",
-      "occt_path": "data/images/chataignier.gif",
-      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
-      "size": 6094,
-      "sha256": "c30919d3d199d273f3ca91c5a6458fbeb1271cce2d825d0c958d26b92038c210"
-    },
-    {
-      "path": "occt-source-data/images/hatch_1.png",
-      "occt_path": "data/images/hatch_1.png",
-      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
-      "size": 5697,
-      "sha256": "a46a7abea8bbfd8a2b9269d0fe6a73566f9193b29fb11c7454eeb322e78008e0"
     }
   ]
 }
