@@ -1,0 +1,55 @@
+{
+  "source": "https://github.com/Open-Cascade-SAS/OCCT",
+  "note": "Unchanged files of the public OCCT source tree data/ folder at the recorded revision, used by OCCT regression scripts through locate_data_file.",
+  "files": [
+    {
+      "path": "occt-source-data/occ/Motor-c.brep",
+      "occt_path": "data/occ/Motor-c.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 2584674,
+      "sha256": "6a381db39565ddf78d1ae7162c2f839bc5886931d510dd0789a72be12a0b2d0b"
+    },
+    {
+      "path": "occt-source-data/occ/Top.brep",
+      "occt_path": "data/occ/Top.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 3514583,
+      "sha256": "947641c949cd8c30aeaed5cdd16bcd1fb4487895ad2d906c947baecbb6381b8f"
+    },
+    {
+      "path": "occt-source-data/occ/bottle.brep",
+      "occt_path": "data/occ/bottle.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 401311,
+      "sha256": "7b59eb71563f1a1908d0e717733dd4c4d4295fc52bf642cafb3e204ff790811b"
+    },
+    {
+      "path": "occt-source-data/occ/face1.brep",
+      "occt_path": "data/occ/face1.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 2214,
+      "sha256": "e34924bbff0de48dac585c10d922bf2ddf5d25bf0255d60ebcd551a02b3c8e2e"
+    },
+    {
+      "path": "occt-source-data/occ/terrain.brep",
+      "occt_path": "data/occ/terrain.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 3468113,
+      "sha256": "7eea9dba10e0ca436db231c92985532924ba36adce476425fcf8ff4d29b23f26"
+    },
+    {
+      "path": "occt-source-data/images/chataignier.gif",
+      "occt_path": "data/images/chataignier.gif",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 6094,
+      "sha256": "c30919d3d199d273f3ca91c5a6458fbeb1271cce2d825d0c958d26b92038c210"
+    },
+    {
+      "path": "occt-source-data/images/hatch_1.png",
+      "occt_path": "data/images/hatch_1.png",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 5697,
+      "sha256": "a46a7abea8bbfd8a2b9269d0fe6a73566f9193b29fb11c7454eeb322e78008e0"
+    }
+  ]
+}

@@ -37,3 +37,13 @@ retrieval date and the case it serves.
 
 The files are redistributed as their reporters attached them to the public
 Open CASCADE Technology issue tracker. Do not edit a file in place.
+
+## occt-source-data
+
+Unchanged files from the `data/` folder of the public Open CASCADE Technology
+source tree (https://github.com/Open-Cascade-SAS/OCCT) at revision
+`3d097a0328e71b826377d4814ab05ec3c3d23871`, for regression cases whose
+`locate_data_file` input lives there rather than in a dataset archive.
+`occt-source-data/SOURCES.json` records each file's OCCT path, revision, size
+and SHA-256. The files are redistributed under the terms of that distribution
+(GNU LGPL 2.1 with the Open CASCADE exception). Do not edit a file in place.
