@@ -47,3 +47,25 @@ source tree (https://github.com/Open-Cascade-SAS/OCCT) at revision
 `occt-source-data/SOURCES.json` records each file's OCCT path, revision, size
 and SHA-256. The files are redistributed under the terms of that distribution
 (GNU LGPL 2.1 with the Open CASCADE exception). Do not edit a file in place.
+
+## occt-resource-textures
+
+Unchanged predefined texture images from the `resources/Textures` folder of the
+public Open CASCADE Technology source tree
+(https://github.com/Open-Cascade-SAS/OCCT) at revision
+`3d097a0328e71b826377d4814ab05ec3c3d23871`, for regression cases that use a
+predefined texture by number (`vtexture <shape> <n>`, `vtextureenv on <n>`).
+`occt-resource-textures/SOURCES.json` records each file's OCCT path, revision,
+size and SHA-256. The files are redistributed under the terms of that
+distribution (GNU LGPL 2.1 with the Open CASCADE exception). Do not edit a
+file in place.
+
+## fonts
+
+Unchanged font files for text-rendering cases that name a specific font.
+
+- `dejavu-2.37/DejaVuSans.ttf`: DejaVu Sans 2.37 (https://dejavu-fonts.github.io/),
+  as shipped by the Debian package `fonts-dejavu-core` 2.37-8. It is
+  redistributed under the Bitstream Vera licence with public-domain DejaVu
+  changes; the full terms are in `dejavu-2.37/LICENSE` and the size and SHA-256
+  in `dejavu-2.37/SOURCES.json`.

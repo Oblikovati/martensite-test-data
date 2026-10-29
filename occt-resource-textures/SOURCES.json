@@ -1,0 +1,223 @@
+{
+  "source": "https://github.com/Open-Cascade-SAS/OCCT",
+  "note": "Unchanged predefined texture images of the public OCCT source tree resources/Textures folder at the recorded revision, loaded by Graphic3d predefined textures (vtexture <n>, vtextureenv on <n>).",
+  "files": [
+    {
+      "path": "occt-resource-textures/1d_elevation.rgb",
+      "occt_path": "resources/Textures/1d_elevation.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 565,
+      "sha256": "f81a1a2432ef7cf62505e448ff5019bd7523512b144a9612b61cd61f0452d491"
+    },
+    {
+      "path": "occt-resource-textures/2d_MatraDatavision.rgb",
+      "occt_path": "resources/Textures/2d_MatraDatavision.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 5248,
+      "sha256": "21a84ead3da486e5e99f0842c411b3bd9eeb66ba9ffdbd6d5bc5f8eb7454a9dd"
+    },
+    {
+      "path": "occt-resource-textures/2d_alienskin.rgb",
+      "occt_path": "resources/Textures/2d_alienskin.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 11182,
+      "sha256": "525a4574fc45aba5f7f20e15386ee9cdc815c1a619aaa443ee03db17bfa10d08"
+    },
+    {
+      "path": "occt-resource-textures/2d_aluminum.rgb",
+      "occt_path": "resources/Textures/2d_aluminum.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 79739,
+      "sha256": "655ee0789700567fdf99d03600c609a32e88b5cf3cce8454a2e506adb05fe4b7"
+    },
+    {
+      "path": "occt-resource-textures/2d_blue_rock.rgb",
+      "occt_path": "resources/Textures/2d_blue_rock.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 83196,
+      "sha256": "0bf869e9e3ba45c7d0cd875dd4b1149b40724c548cfd43313b723a616c97d5f2"
+    },
+    {
+      "path": "occt-resource-textures/2d_bluewhite_paper.rgb",
+      "occt_path": "resources/Textures/2d_bluewhite_paper.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 81643,
+      "sha256": "744377fb9cdd14d27ca35c969a2a3fab79f22b47263b68afff176dd8b18a37d4"
+    },
+    {
+      "path": "occt-resource-textures/2d_brushed.rgb",
+      "occt_path": "resources/Textures/2d_brushed.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 207685,
+      "sha256": "fa5c0c54c11ad3f4fc19dc26dc65c19991492409d7edb731cf15c599447092e0"
+    },
+    {
+      "path": "occt-resource-textures/2d_bubbles.rgb",
+      "occt_path": "resources/Textures/2d_bubbles.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 204059,
+      "sha256": "4facb5aa42fe8c6792767a427f4d9c621adc3036f6f69f48d5f10efe52329be6"
+    },
+    {
+      "path": "occt-resource-textures/2d_bumps.rgb",
+      "occt_path": "resources/Textures/2d_bumps.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 31610,
+      "sha256": "ff129d1bf806b1097def774f86855e3b71372d45fe402122784144b483bb95c1"
+    },
+    {
+      "path": "occt-resource-textures/2d_cast.rgb",
+      "occt_path": "resources/Textures/2d_cast.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 206837,
+      "sha256": "e9c3e76cc05dceac4d8c52751b79f6f4ebd5197df727c681073fe6881899aab0"
+    },
+    {
+      "path": "occt-resource-textures/2d_chess.rgba",
+      "occt_path": "resources/Textures/2d_chess.rgba",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 1536,
+      "sha256": "cd82cacc0a4699f78c108808a8c0a4164e119a7ba224d386af58276e48ffff39"
+    },
+    {
+      "path": "occt-resource-textures/2d_chipbd.rgb",
+      "occt_path": "resources/Textures/2d_chipbd.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 207481,
+      "sha256": "edd4433ac483728656cfdb0c298a5e1856076cf373c2308b2c912a29af148a7b"
+    },
+    {
+      "path": "occt-resource-textures/2d_clouds.rgb",
+      "occt_path": "resources/Textures/2d_clouds.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 35258,
+      "sha256": "e0b70c4f567fa7581ce2c24611b04d502c44f1be72726d7919ecbcb266966216"
+    },
+    {
+      "path": "occt-resource-textures/2d_flesh.rgb",
+      "occt_path": "resources/Textures/2d_flesh.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 32720,
+      "sha256": "a43cecf4bd93da607a0cd5063eb1143e4dc64aef994136a527d6820f829278f5"
+    },
+    {
+      "path": "occt-resource-textures/2d_floor.rgb",
+      "occt_path": "resources/Textures/2d_floor.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 201942,
+      "sha256": "1d946e37231bdd11f6af31e07f6a0daa519a7e58b7978f3eb64cd68c25b6636a"
+    },
+    {
+      "path": "occt-resource-textures/2d_galvnisd.rgb",
+      "occt_path": "resources/Textures/2d_galvnisd.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 207144,
+      "sha256": "a4ea9460d9565e96164b36e85cb4de628010c961db5ba80b7fb977080c5a3427"
+    },
+    {
+      "path": "occt-resource-textures/2d_grass.rgb",
+      "occt_path": "resources/Textures/2d_grass.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 206168,
+      "sha256": "a75ff117573762e8e792d5f9ed7c3d267a97b81f33f80047527326a054d17fb1"
+    },
+    {
+      "path": "occt-resource-textures/2d_knurl.rgb",
+      "occt_path": "resources/Textures/2d_knurl.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 198296,
+      "sha256": "81b52a549f42042771512d1cba1fc921336f01e84c1958dddcc3b8996ec17ffa"
+    },
+    {
+      "path": "occt-resource-textures/2d_maple.rgb",
+      "occt_path": "resources/Textures/2d_maple.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 206652,
+      "sha256": "c459f9faeaa9b89dec6bc49ee617b79d53e6647a8cd71717c19b6a6e45543ac0"
+    },
+    {
+      "path": "occt-resource-textures/2d_marble.rgb",
+      "occt_path": "resources/Textures/2d_marble.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 47946,
+      "sha256": "09e383689f3662f0794a9b501d0c6b0a53f6e0aa453f516f7c895290bf8455f2"
+    },
+    {
+      "path": "occt-resource-textures/2d_mottled.rgb",
+      "occt_path": "resources/Textures/2d_mottled.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 205538,
+      "sha256": "96bdd19e6197423a41f46929d3a158a231704c7cc5a183790e0c2282ef38dec9"
+    },
+    {
+      "path": "occt-resource-textures/2d_rain.rgb",
+      "occt_path": "resources/Textures/2d_rain.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 23190,
+      "sha256": "dfbff2a0e248e6aadf7475787599b4924fcf515c3956a68359e49af919686d96"
+    },
+    {
+      "path": "occt-resource-textures/2d_rock.rgb",
+      "occt_path": "resources/Textures/2d_rock.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 82883,
+      "sha256": "9d414cce17ce5a21e7014e1133bb482703136d60c2b0074fd30d17653da039cb"
+    },
+    {
+      "path": "occt-resource-textures/env_clouds.rgb",
+      "occt_path": "resources/Textures/env_clouds.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 35258,
+      "sha256": "e0b70c4f567fa7581ce2c24611b04d502c44f1be72726d7919ecbcb266966216"
+    },
+    {
+      "path": "occt-resource-textures/env_cv.rgb",
+      "occt_path": "resources/Textures/env_cv.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 36239,
+      "sha256": "389e5047c1e2440b7e9f0dbdc2dc4b91d60ee265e47f7dfbfacf5c5bdc466afa"
+    },
+    {
+      "path": "occt-resource-textures/env_lines.rgb",
+      "occt_path": "resources/Textures/env_lines.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 189354,
+      "sha256": "a1a86c84a09ca1c3f893b4857be3ef262b61e8f37883c38481d60f3b7f29a2cf"
+    },
+    {
+      "path": "occt-resource-textures/env_medit.rgb",
+      "occt_path": "resources/Textures/env_medit.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 39299,
+      "sha256": "1214f97a585d7e3da339b4417eab818edc138a143a122642fb088f79be5a5dbb"
+    },
+    {
+      "path": "occt-resource-textures/env_pearl.rgb",
+      "occt_path": "resources/Textures/env_pearl.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 53737,
+      "sha256": "c68337fa70c49ff270764402d61dce93b62fd8fc443a8e725a3ca477fdac4d85"
+    },
+    {
+      "path": "occt-resource-textures/env_road.rgb",
+      "occt_path": "resources/Textures/env_road.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 40157,
+      "sha256": "f24d5480af3af23ac2b85c3a4ad5e4962dfae3ffaf38b71f41fd6f80cc67cc4a"
+    },
+    {
+      "path": "occt-resource-textures/env_sky1.rgb",
+      "occt_path": "resources/Textures/env_sky1.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 203638,
+      "sha256": "ab3f87e17dd578564072e10145f08d07d50af7ab7a4e487789fdb2cb983bfbb0"
+    },
+    {
+      "path": "occt-resource-textures/env_sky2.rgb",
+      "occt_path": "resources/Textures/env_sky2.rgb",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 199206,
+      "sha256": "7cd812ee6c6de55857a84218eda9d34d7588593290dfbf82fcf591bad7b1d464"
+    }
+  ]
+}

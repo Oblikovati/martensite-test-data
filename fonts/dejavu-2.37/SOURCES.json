@@ -1,0 +1,11 @@
+{
+  "source": "https://dejavu-fonts.github.io/",
+  "package": "Debian fonts-dejavu-core 2.37-8",
+  "files": [
+    {
+      "path": "fonts/dejavu-2.37/DejaVuSans.ttf",
+      "size": 759720,
+      "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+    }
+  ]
+}
