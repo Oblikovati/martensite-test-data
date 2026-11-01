@@ -17,6 +17,13 @@
       "sha256": "a46a7abea8bbfd8a2b9269d0fe6a73566f9193b29fb11c7454eeb322e78008e0"
     },
     {
+      "path": "occt-source-data/occ/Bottom.brep",
+      "occt_path": "data/occ/Bottom.brep",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 3839135,
+      "sha256": "fdf4a89e9a0287859d524e6abade702badd1b840b94876aaebf327ecb03e4588"
+    },
+    {
       "path": "occt-source-data/occ/CrankArm.brep",
       "occt_path": "data/occ/CrankArm.brep",
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",

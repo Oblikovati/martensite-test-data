@@ -48,6 +48,9 @@ source tree (https://github.com/Open-Cascade-SAS/OCCT) at revision
 and SHA-256. The files are redistributed under the terms of that distribution
 (GNU LGPL 2.1 with the Open CASCADE exception). Do not edit a file in place.
 
+The unchanged distribution terms are included as `LICENSE_LGPL_21.txt` and
+`OCCT_LGPL_EXCEPTION.txt`, copied from the same source revision.
+
 ## occt-resource-textures
 
 Unchanged predefined texture images from the `resources/Textures` folder of the
