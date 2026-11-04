@@ -31,6 +31,9 @@ retrieval date and the case it serves.
 - `OCCT-466/cutCompound.shape`: issue #466 ("BRepBndLib::AddClose crashes"),
   member of the attachment `cutCompound.zip`; the input `bug_gh466.brep` of
   `tests/bugs/modalg_8/bug_gh466`.
+- `OCCT-544/solid.brep.txt`: issue #544 ("Infinite loop when Simplifying Fuse operation,
+  CPU to 100%"), the attachment itself; the input `bug_gh544.brep` of
+  `tests/bugs/modalg_8/bug_gh544`. The issue and attachment state no licence.
 - `OCCT-469/cutCompound2.shape`: issue #469 ("Bounding box is void when using
   BRepBndLib::AddOptimal"), member of the attachment `cutCompound2.zip`; the
   input `bug_gh469.brep` of `tests/bugs/modalg_8/bug_gh469`.

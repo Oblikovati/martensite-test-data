@@ -27,6 +27,20 @@
       "retrieved": "2026-10-20",
       "used_as": "bug_gh469.brep of OCCT tests/bugs/modalg_8/bug_gh469",
       "validation": "The original case run in native DRAWEXE (OCCT 3d097a0328e7) with this file as bug_gh469.brep restores the shape and bounding -optimal prints the box -10.383446753040507 -12.671863137694107 -135.723898641278 21.647222385336605 19.363063137694109 59.414846753040507; TEST COMPLETED, CASE OK, no error."
+    },
+    {
+      "path": "github-issues/OCCT-544/solid.brep.txt",
+      "issue": "https://github.com/Open-Cascade-SAS/OCCT/issues/544",
+      "issue_title": "Infinite loop when Simplifying Fuse operation, CPU to 100%",
+      "attachment": "https://github.com/user-attachments/files/20265204/solid.brep.txt",
+      "attachment_sha256": "8621acd11163fbc0575e131c62226c1ba0d24534832ef1537e79bc8a04bcc2a9",
+      "attachment_size": 116858,
+      "member": null,
+      "size": 116858,
+      "sha256": "8621acd11163fbc0575e131c62226c1ba0d24534832ef1537e79bc8a04bcc2a9",
+      "retrieved": "2026-11-04",
+      "used_as": "bug_gh544.brep of OCCT tests/bugs/modalg_8/bug_gh544",
+      "validation": "Native DRAWEXE ran the unchanged case on this file: OK, and SKIPPED without it. The script uses wire body_18 and the solid has exactly 18 wires. The fuse completes and checkshape reports the result valid. The name differs from the case: the script keeps the comment \"restore solid.brep body\" and names issue 544. The issue and attachment state no licence."
     }
   ]
 }
