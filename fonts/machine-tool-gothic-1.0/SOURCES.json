@@ -1,0 +1,15 @@
+{
+  "source": "http://www.imajeenyus.com/computer/20150110_single_line_fonts/machine_tool_font.zip",
+  "corroborated_by": "https://github.com/golanlevin/p5-single-line-font-resources/tree/3b3082d3269548ae0032e51975bf0a3be9b67317",
+  "zip_sha256": "fd89fb955659ff6d0b154d2979fe210bb78cc73570fcb4d4dd75f8966171eb26",
+  "author": "Engineering Geometry Systems",
+  "version": "1.0 KK, 10/5/97",
+  "licence": "Unknown. No licence text was found in the font, the archive or its source pages; the archivist's page also says the licence is unknown.",
+  "files": [
+    {
+      "path": "fonts/machine-tool-gothic-1.0/machtgth.ttf",
+      "size": 33112,
+      "sha256": "5b584fe68b0843a892e456f6d67e80fb23ead040bdd44a5498db2dc0a28a0a18"
+    }
+  ]
+}

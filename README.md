@@ -72,3 +72,16 @@ Unchanged font files for text-rendering cases that name a specific font.
   redistributed under the Bitstream Vera licence with public-domain DejaVu
   changes; the full terms are in `dejavu-2.37/LICENSE` and the size and SHA-256
   in `dejavu-2.37/SOURCES.json`.
+
+The next two fonts serve the one-line-font case `tests/v3d/fonts/B6`, unchanged:
+
+- `olf-testfont-2.000/OLFTestFont-Regular.ttf`: OLF TestFont 2.000, the free test
+  sample of Creative Juncture LLC (https://www.onelinefonts.com). Its embedded
+  licence refers to the vendor EULA, which restricts copying and redistribution,
+  and no redistribution grant was found. It is kept here by the maintainer's
+  decision (2026-11-04); the rights holder may ask for its removal.
+- `machine-tool-gothic-1.0/machtgth.ttf`: Machine Tool Gothic 1.0 by Engineering
+  Geometry Systems. Its licence is unknown. It is kept here by the same decision,
+  on the same terms.
+
+Each folder's `SOURCES.json` records where the file came from, its size and SHA-256.
