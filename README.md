@@ -85,3 +85,14 @@ The next two fonts serve the one-line-font case `tests/v3d/fonts/B6`, unchanged:
   on the same terms.
 
 Each folder's `SOURCES.json` records where the file came from, its size and SHA-256.
+
+## drivers
+
+`lavapipe-mesa-26.1.6-noble-x86_64.tar.xz` holds the software Vulkan driver that the
+renderer's recorded images were captured with, so CI and contributors reproduce them
+exactly. It is `libvulkan_lvp.so`, unchanged, from the Pop!_OS package
+`mesa-vulkan-drivers 26.1.6-1pop0~1787580452~24.04~a5619ea` (noble, amd64), an ICD manifest
+that points next to the library, the package's `copyright` file (Mesa is under the MIT
+licence) and `SHA256SUMS`. The driver links the Ubuntu 24.04 `libllvm20` 20.1.2.
+
+- Archive SHA-256: `5ff06be966031b198983ca3cef4bad2226cb3e254feedd9239b4b8c04292323e`
