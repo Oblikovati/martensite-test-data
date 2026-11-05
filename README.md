@@ -76,6 +76,13 @@ Unchanged font files for text-rendering cases that name a specific font.
   changes; the full terms are in `dejavu-2.37/LICENSE` and the size and SHA-256
   in `dejavu-2.37/SOURCES.json`.
 
+- `freefont-20211204/FreeSerif.ttf`: GNU FreeFont FreeSerif
+  (https://savannah.gnu.org/projects/freefont/), as shipped by the Debian package
+  `fonts-freefont-ttf` 20211204+svn4273-2. It serves a text-engraving case whose
+  expected values hold only for this font. It is redistributed under the GNU GPL,
+  version 3 or later, with the Special Font Exception; the terms are in
+  `freefont-20211204/LICENSE` and `freefont-20211204/GPL-3`.
+
 The next two fonts serve the one-line-font case `tests/v3d/fonts/B6`, unchanged:
 
 - `olf-testfont-2.000/OLFTestFont-Regular.ttf`: OLF TestFont 2.000, the free test

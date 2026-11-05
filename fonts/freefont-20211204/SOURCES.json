@@ -1,0 +1,11 @@
+{
+  "source": "https://savannah.gnu.org/projects/freefont/",
+  "package": "Debian fonts-freefont-ttf 20211204+svn4273-2",
+  "files": [
+    {
+      "path": "fonts/freefont-20211204/FreeSerif.ttf",
+      "size": 3686360,
+      "sha256": "c57bf5de095af4e070c2acb5bce634316409ed4203b5098f4fdadb691dc7b3d2"
+    }
+  ]
+}
