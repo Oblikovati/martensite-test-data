@@ -92,6 +92,34 @@
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
       "size": 3468113,
       "sha256": "7eea9dba10e0ca436db231c92985532924ba36adce476425fcf8ff4d29b23f26"
+    },
+    {
+      "path": "occt-source-data/stl/bearing.stl",
+      "occt_path": "data/stl/bearing.stl",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 6544455,
+      "sha256": "2f586c68f36194276cbb694a95da60398ca66f065d333a70a9b708fd343505b3"
+    },
+    {
+      "path": "occt-source-data/stl/head.stl",
+      "occt_path": "data/stl/head.stl",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 5884784,
+      "sha256": "26fb6c2ede5e429310588410f36f533f764ba79395ab6142a36cedf702860c40"
+    },
+    {
+      "path": "occt-source-data/stl/sh1.stl",
+      "occt_path": "data/stl/sh1.stl",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 871865,
+      "sha256": "c5bdf0f5ca546f82bebe87205a225ab279d155469e1cd158efb12a968ed7c1c1"
+    },
+    {
+      "path": "occt-source-data/stl/shape.stl",
+      "occt_path": "data/stl/shape.stl",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 130925,
+      "sha256": "41793c78563624205829ef9877cc9d9f12ce9cf87ab229a786731600465734b6"
     }
   ]
 }
