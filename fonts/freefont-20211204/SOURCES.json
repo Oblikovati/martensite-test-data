@@ -6,6 +6,21 @@
       "path": "fonts/freefont-20211204/FreeSerif.ttf",
       "size": 3686360,
       "sha256": "c57bf5de095af4e070c2acb5bce634316409ed4203b5098f4fdadb691dc7b3d2"
+    },
+    {
+      "path": "fonts/freefont-20211204/FreeSerifBold.ttf",
+      "size": 2076128,
+      "sha256": "f078f2ac5d38addc71e2c123d86584341360b5bf27bc1cf238574ebe4f5a0f4d"
+    },
+    {
+      "path": "fonts/freefont-20211204/FreeSansBoldOblique.ttf",
+      "size": 579576,
+      "sha256": "f26d93f22f70bd97270a6b5506497a8c9e84c64399343cf1c08a50e4016cf967"
+    },
+    {
+      "path": "fonts/freefont-20211204/FreeMonoOblique.ttf",
+      "size": 577920,
+      "sha256": "c350255406bf9dd314c8261d49118b2d44c38d7c2555884eba43dffea7bd7313"
     }
   ]
 }

@@ -83,6 +83,12 @@ Unchanged font files for text-rendering cases that name a specific font.
   version 3 or later, with the Special Font Exception; the terms are in
   `freefont-20211204/LICENSE` and `freefont-20211204/GPL-3`.
 
+- `freefont-20211204/FreeSerifBold.ttf`, `FreeSansBoldOblique.ttf` and
+  `FreeMonoOblique.ttf`: three more faces of the same package and under the same
+  terms. With `FreeSerif.ttf` they serve the text of the bottle and snowflake
+  samples, loaded by path so that those cases do not depend on the fonts installed
+  on a machine.
+
 The next two fonts serve the one-line-font case `tests/v3d/fonts/B6`, unchanged:
 
 - `olf-testfont-2.000/OLFTestFont-Regular.ttf`: OLF TestFont 2.000, the free test
