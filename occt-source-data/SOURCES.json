@@ -3,6 +3,20 @@
   "note": "Unchanged files of the public OCCT source tree data/ folder at the recorded revision, used by OCCT regression scripts through locate_data_file.",
   "files": [
     {
+      "path": "occt-source-data/iges/bearing.iges",
+      "occt_path": "data/iges/bearing.iges",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 1284903,
+      "sha256": "e148b6f4240694049c8a2b894dc9f7c74113bb8991e5a12a5dead160fb9f0106"
+    },
+    {
+      "path": "occt-source-data/iges/hammer.iges",
+      "occt_path": "data/iges/hammer.iges",
+      "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
+      "size": 1038825,
+      "sha256": "b62fb4823e109737b56ba2fd18e2d10ecd988776cb16262d59f3e1784feb0a65"
+    },
+    {
       "path": "occt-source-data/images/chataignier.gif",
       "occt_path": "data/images/chataignier.gif",
       "occt_revision": "3d097a0328e71b826377d4814ab05ec3c3d23871",
